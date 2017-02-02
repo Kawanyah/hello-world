@@ -1,4 +1,4 @@
-# hello-world
+# Hello-world
 Standard beginners repository.
 
 I'm Getting There!
